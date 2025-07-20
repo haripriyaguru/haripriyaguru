@@ -9,22 +9,24 @@
 
 🌟 **About Me**  
 🎓 I'm currently pursuing my **B.E. in Computer Science** at **K. Ramakrishnan College of Engineering**.  
-💻 I love working on **web development projects**, especially using **React.js, HTML, CSS, and JavaScript**.  
-🌐 I'm deeply interested in **IoT**, **cloud computing**, and **problem-solving**.  
+💻 I love working on **web development projects**, especially using **React.js, HTML, CSS, and JavaScript**.    
 🔭 Currently doing an **internship at Movidu**, generating daily risk alerts & weather reports.  
 🏆 Participated in **TCS CodeVita Season 12**, ranked **709 in Round 2**.  
-📱 Also working on **eCommerce frontend projects** for products like books and jewelry.  
-📚 I have certifications in **IoT, Microsoft Azure**, and completed an internship at **NLC India Limited**.
 
 ---
 
 💡 **Tech Stack**
 
-- 💻 Languages: `Java`, `JavaScript`, `C`
-- 🌐 Frontend: `React.js`, `HTML5`, `CSS3`, `Tailwind CSS`, `jQuery`
-- ☁️ Cloud: `Microsoft Azure` (Certified)
-- 🛠 Tools: `VS Code`, `Git`, `GitHub`, `ThreadPrism`
-- 📊 Others: `Data analysis`, `Risk & Weather Reporting`, `Excel`, `Problem Solving`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
 
 ---
 
@@ -38,16 +40,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripriyaguru&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haripriyaguru&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 
 📫 **Connect With Me**
 
-- 🌐 Portfolio (coming soon!)
-- 📧 Email: **haripriyagurubharan@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/haripriya-g](https://www.linkedin.com/in/haripriya-g)
+<p align="center">
+  <a href="https://www.linkedin.com/in/haripriyaguru22/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/haripriyaguru/Haripriya-Resume" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" />
+  </a>
+</p>
 
 ---
 
 ⚡ **Fun Fact:**  
 I can turn creative front-end designs into functional and interactive websites — just like building an eCommerce site using only HTML/CSS!
-
