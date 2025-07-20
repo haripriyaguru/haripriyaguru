@@ -59,6 +59,3 @@
 </p>
 
 ---
-
-⚡ **Fun Fact:**  
-I can turn creative front-end designs into functional and interactive websites — just like building an eCommerce site using only HTML/CSS!
