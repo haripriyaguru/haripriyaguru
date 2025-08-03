@@ -80,18 +80,6 @@ A fully responsive handcrafted jewelry eCommerce site built with HTML, CSS, and 
 
 ---
 
-## 📈 GitHub Analytics
-
-![Amuthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C-P-AMUTHAN&show_icons=true&theme=tokyonight&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=C-P-AMUTHAN&theme=tokyonight&border_radius=5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-P-AMUTHAN&layout=compact&theme=tokyonight)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=C-P-AMUTHAN&theme=tokyonight&no-frame=true&margin-w=5)
-
----
-
 📫 **Connect With Me**
 
 <p align="center">
