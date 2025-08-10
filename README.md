@@ -42,7 +42,7 @@ Detects fake Instagram and Twitter accounts using a Random Forest Classifier by 
 ### 🌐 Personal Portfolio  
 A fully responsive personal website built with HTML, CSS, and JavaScript to showcase my projects, resume, and skills.  
 📁 Features a clean UI and smooth navigation to help recruiters access my work easily.  
-🌐 **Live Demo**: Coming soon
+🌐 **Live Demo**: [Click here](https://haripriyaguru.github.io/Portfolio/).
 
 ---
 
