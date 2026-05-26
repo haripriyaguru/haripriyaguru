@@ -8,8 +8,7 @@
 ---
 
 🌟 **About Me**  
-🚀 I'm Haripriya G, a Computer Science graduate from K. Ramakrishnan College of Engineering passionate about building full-stack and AI-powered web applications — not just academic projects, but real-world systems with practical logic and problem-solving behind them. 
-🔍 Currently seeking opportunities as a Full Stack Developer or Frontend Developer (2026 Batch) and available for internships, collaborations, and innovative projects.
+🚀 I'm Haripriya G, a Computer Science graduate from K. Ramakrishnan College of Engineering passionate about building full-stack and AI-powered web applications — not just academic projects, but real-world systems with practical logic and problem-solving behind them. 🔍 Currently seeking opportunities as a Full Stack Developer or Frontend Developer (2026 Batch) and available for internships, collaborations, and innovative projects.
 
 ---
 
@@ -30,19 +29,19 @@
 
 📁 **Projects**
 
-### 🚆 Prompt-Based-AI-Agent-for-Train-Ticket-Booking  
-An advanced MERN stack railway booking platform integrated with a prompt-based AI agent that automates the complete train ticket booking workflow.  
-🤖 Uses intelligent backend API orchestration for train search, passenger handling, payment processing, and ticket generation.  
-⚡ Designed to simplify railway reservations through conversational AI interactions.  
-🌐 **Live Demo**: [Click here](https://prompt-based-ai-agent-for-train-tic.vercel.app/)
-
----
-
 ### 🏥 Intelligent-Health-Monitoring-System  
 AI-powered healthcare monitoring web application that analyzes eye condition, tongue color, posture, and speech patterns to provide health insights.  
 🧠 Includes personalized diet recommendations, calorie tracking, and nearby hospital detection features.  
 💡 Focused on preventive healthcare and smart health assessment using AI technologies.  
 🌐 **Live Demo**: [Click here](https://intelligent-health-monitoring-system.onrender.com/)
+
+---
+
+### 🚆 Prompt-Based-AI-Agent-for-Train-Ticket-Booking  
+An advanced MERN stack railway booking platform integrated with a prompt-based AI agent that automates the complete train ticket booking workflow.  
+🤖 Uses intelligent backend API orchestration for train search, passenger handling, payment processing, and ticket generation.  
+⚡ Designed to simplify railway reservations through conversational AI interactions.  
+🌐 **Live Demo**: [Click here](https://prompt-based-ai-agent-for-train-tic.vercel.app/)
 
 ---
 
